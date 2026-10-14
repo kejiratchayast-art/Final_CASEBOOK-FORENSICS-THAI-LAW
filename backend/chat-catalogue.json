@@ -1,0 +1,128 @@
+{
+  "case_01": [
+    {
+      "id": "c1_h1",
+      "title": "Heavy Floor Wax Stain",
+      "observedFacts": [
+        "A 45-cm skid mark is visible on the parquet floor near the balcony sliding door.",
+        "Uncured floor wax chemical residue is concentrated along the edge."
+      ]
+    },
+    {
+      "id": "c1_h2",
+      "title": "Latent Fingerprint on Glass Frame",
+      "observedFacts": [
+        "An overlapped latent fingerprint was recovered from the interior sliding glass frame.",
+        "Initial ridge minutiae matching identifies the print as belonging to Somchai."
+      ]
+    },
+    {
+      "id": "c1_h3",
+      "title": "Torn Shirt Button",
+      "observedFacts": [
+        "A mother-of-pearl button with frayed thread was found near the desk corner.",
+        "The victim's shirt was missing its second button, with thread fibers pulled violently."
+      ]
+    },
+    {
+      "id": "c1_h4",
+      "title": "Fresh Blood Spatter on Balcony Rail",
+      "observedFacts": [
+        "Fresh blood spatter is present on the metal railing 95 cm above floor level.",
+        "The victim suffered a posterior scalp laceration matching the railing width."
+      ]
+    },
+    {
+      "id": "c1_h5",
+      "title": "Teacup with White Sediment",
+      "observedFacts": [
+        "Two teacups were found on the desk; one contained leftover tea with fine white sediment.",
+        "Laboratory screening detected fast-acting sedative drug contamination."
+      ]
+    }
+  ],
+  "case_02": [
+    {
+      "id": "c2_h1",
+      "title": "Empty Picture Frame",
+      "observedFacts": [
+        "The canvas was severed neatly along all four inner edges of the wooden frame.",
+        "A heavy-duty utility knife blade was found dropped on the floor."
+      ]
+    },
+    {
+      "id": "c2_h2",
+      "title": "Muddy Shoeprint Impressions",
+      "observedFacts": [
+        "Three fresh wet mud shoeprint impressions lead from the rear garden door toward the gallery.",
+        "Athletic shoe tread pattern matching Size 42 (EU)."
+      ]
+    },
+    {
+      "id": "c2_h3",
+      "title": "Digital Keycard Access Log (22:42)",
+      "observedFacts": [
+        "The system logged Keycard M-01 (Master Card) tapping the gallery door lock at 22:42:15.",
+        "Keycard M-01 is registered to Curator Methavee."
+      ]
+    },
+    {
+      "id": "c2_h4",
+      "title": "Red Jacket Polyester Fibers",
+      "observedFacts": [
+        "Two bright red synthetic fibers were snagged on the rear door latch metal burr.",
+        "FTIR spectroscopy confirmed red polyester fiber composition."
+      ]
+    },
+    {
+      "id": "c2_h5",
+      "title": "Severed CCTV Power Cable",
+      "observedFacts": [
+        "The CCTV camera in the blind spot had its power and video cables severed.",
+        "Cut marks match diagonal wire-cutting pliers."
+      ]
+    }
+  ],
+  "case_03": [
+    {
+      "id": "c3_h1",
+      "title": "18-Meter Skid Mark",
+      "observedFacts": [
+        "A continuous 18-meter straight black tire skid mark was measured on the asphalt prior to impact.",
+        "Road surface was wet due to rainfall; friction coefficient (f) estimated at 0.50."
+      ]
+    },
+    {
+      "id": "c3_h2",
+      "title": "Blue Metallic Paint Flakes on Garment",
+      "observedFacts": [
+        "Blue metallic paint flakes were recovered from the victim's jacket.",
+        "Microscopic layer analysis revealed Clear coat, Blue base coat, and 3 Primer layers."
+      ]
+    },
+    {
+      "id": "c3_h3",
+      "title": "Headlight Glass & Polycarbonate Fragments",
+      "observedFacts": [
+        "Polycarbonate headlight fragments were scattered in a 45-degree fan pattern.",
+        "Fragment code markings identify manufacturer and specific pickup truck model."
+      ]
+    },
+    {
+      "id": "c3_h4",
+      "title": "Flashing Traffic Signal",
+      "observedFacts": [
+        "Traffic camera logs confirm signals were in flashing amber/red caution mode due to system fault at 20:18.",
+        "Drivers are required by law to reduce speed and yield at flashing caution signals."
+      ]
+    },
+    {
+      "id": "c3_h5",
+      "title": "Right Leg Bumper Fracture",
+      "observedFacts": [
+        "Victim suffered a right lower leg bumper fracture 42 cm above heel level.",
+        "Horizontal contusion present on the right thigh."
+      ]
+    }
+  ]
+}

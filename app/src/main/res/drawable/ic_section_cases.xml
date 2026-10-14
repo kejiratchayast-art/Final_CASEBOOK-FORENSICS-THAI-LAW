@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- Dossier Folder Contour -->
+    <path
+        android:fillColor="#171512"
+        android:strokeColor="#C87D55"
+        android:strokeWidth="2"
+        android:pathData="M8,14 L24,14 L28,20 L56,20 C58.2,20 60,21.8 60,24 L60,52 C60,54.2 58.2,56 56,56 L8,56 C5.8,56 4,54.2 4,52 L4,18 C4,15.8 5.8,14 8,14 Z" />
+
+    <!-- Inner Paper Document Sheet -->
+    <path
+        android:fillColor="#E2A078"
+        android:pathData="M12,24 L52,24 L52,50 L12,50 Z" />
+
+    <!-- Red Wax Seal Accent -->
+    <path
+        android:fillColor="#991B1B"
+        android:pathData="M44,40 C44,36.7 41.3,34 38,34 C34.7,34 32,36.7 32,40 C32,43.3 34.7,46 38,46 C41.3,46 44,43.3 44,40 Z" />
+</vector>

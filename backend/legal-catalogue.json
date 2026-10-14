@@ -1,0 +1,62 @@
+{
+  "sec_288": {
+    "id": "sec_288",
+    "lawTitle": "Criminal Code of Thailand",
+    "sectionArticle": "Section 288",
+    "relevantAmendment": "Act Amending Criminal Code (No. 26) B.E. 2560 (2017)",
+    "effectiveDate": "November 13, 1956",
+    "officialSourceUrl": "https://www.krisdika.go.th",
+    "officialSourceTitle": "Office of the Council of State — Thai",
+    "statutoryText": "Whoever kills another person shall be punished with death, imprisonment for life, or imprisonment of fifteen to twenty years.",
+    "educationalExplanation": "Requires specific intent to kill (desire or foresight of fatal result).",
+    "translationStatus": "Unofficial English translation",
+    "verificationDate": "May 10, 2024",
+    "verificationStatus": "Verified against official primary source — Unofficial English translation",
+    "revisionHistory": "v1.2 — Aligned with official Gazette text"
+  },
+  "sec_290": {
+    "id": "sec_290",
+    "lawTitle": "Criminal Code of Thailand",
+    "sectionArticle": "Section 290",
+    "relevantAmendment": "Act Amending Criminal Code (No. 26) B.E. 2560 (2017)",
+    "effectiveDate": "November 13, 1956",
+    "officialSourceUrl": "https://www.krisdika.go.th",
+    "officialSourceTitle": "Office of the Council of State — Thai",
+    "statutoryText": "Whoever causes death to another person by inflicting injury upon life/body without intent to kill shall be punished with imprisonment of three to fifteen years.",
+    "educationalExplanation": "Applies when intent was limited to bodily injury or assault, but death resulted as a consequence.",
+    "translationStatus": "Unofficial English translation",
+    "verificationDate": "May 10, 2024",
+    "verificationStatus": "Verified against official primary source — Unofficial English translation",
+    "revisionHistory": "v1.2 — Aligned with official Gazette text"
+  },
+  "sec_335": {
+    "id": "sec_335",
+    "lawTitle": "Criminal Code of Thailand",
+    "sectionArticle": "Section 335",
+    "relevantAmendment": "Act Amending Criminal Code (No. 26) B.E. 2560 (2017)",
+    "effectiveDate": "November 13, 1956",
+    "officialSourceUrl": "https://www.krisdika.go.th",
+    "officialSourceTitle": "Office of the Council of State — Thai",
+    "statutoryText": "Whoever commits theft at night or by damaging or bypassing barriers intended for protection shall be punished with imprisonment of one to five years.",
+    "educationalExplanation": "Aggravated theft provisions elevating penalties due to nighttime timing or security barrier circumvention.",
+    "translationStatus": "Unofficial English translation",
+    "verificationDate": "May 10, 2024",
+    "verificationStatus": "Verified against official primary source — Unofficial English translation",
+    "revisionHistory": "v1.2 — Aligned with official Gazette text"
+  },
+  "sec_78": {
+    "id": "sec_78",
+    "lawTitle": "Land Traffic Act B.E. 2522",
+    "sectionArticle": "Section 78",
+    "relevantAmendment": "Land Traffic Act (No. 13) B.E. 2565 (2022)",
+    "effectiveDate": "May 20, 1979",
+    "officialSourceUrl": "https://www.krisdika.go.th",
+    "officialSourceTitle": "Office of the Council of State — Thai",
+    "statutoryText": "Any driver involved in an accident causing damage to persons or property shall stop, render assistance, and report to police immediately. Failure to stop creates a statutory presumption of fault.",
+    "educationalExplanation": "Hit-and-run provisions establishing a legal presumption of fault against drivers who flee without rendering assistance.",
+    "translationStatus": "Unofficial English translation",
+    "verificationDate": "May 10, 2024",
+    "verificationStatus": "Verified against official primary source — Unofficial English translation",
+    "revisionHistory": "v1.2 — Aligned with amended hit-and-run provisions"
+  }
+}

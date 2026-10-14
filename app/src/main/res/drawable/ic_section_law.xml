@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- Open Legal Volume Pages -->
+    <path
+        android:fillColor="#171512"
+        android:strokeColor="#C87D55"
+        android:strokeWidth="2"
+        android:pathData="M6,16 L32,22 L58,16 L58,52 L32,56 L6,52 Z M32,22 L32,56" />
+
+    <!-- Legal Text Engraved Lines -->
+    <path
+        android:strokeColor="#E2A078"
+        android:strokeWidth="1.5"
+        android:pathData="M12,26 L26,29 M12,34 L26,37 M12,42 L26,45 M38,29 L52,26 M38,37 L52,34 M38,45 L52,42" />
+</vector>

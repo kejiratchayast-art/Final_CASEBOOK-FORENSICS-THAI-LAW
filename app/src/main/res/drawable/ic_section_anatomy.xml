@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- Anatomical Atlas Frame -->
+    <path
+        android:fillColor="#171512"
+        android:strokeColor="#C87D55"
+        android:strokeWidth="2"
+        android:pathData="M8,8 L56,8 L56,56 L8,56 Z" />
+
+    <!-- Anatomical Torso & Organs Line Illustration -->
+    <path
+        android:strokeColor="#E2A078"
+        android:strokeWidth="1.5"
+        android:pathData="M24,18 C28,16 36,16 40,18 M20,24 C28,22 36,22 44,24 M32,16 L32,50 M26,30 C32,28 32,36 26,38 M38,30 C32,28 32,36 38,38" />
+</vector>

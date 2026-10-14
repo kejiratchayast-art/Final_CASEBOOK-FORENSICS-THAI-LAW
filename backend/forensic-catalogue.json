@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lib_f1",
+    "title": "Locard's Exchange Principle",
+    "summary": "Every contact leaves a trace. Material exchange occurs whenever two objects collide.",
+    "detailedExplanation": "Formulated by Dr. Edmond Locard, this principle dictates that perpetrators leave trace physical evidence at crime scenes and carry scene material away.",
+    "scientificLimitations": "Trace evidence can be lost or contaminated if the crime scene is not secured promptly."
+  },
+  {
+    "id": "lib_f2",
+    "title": "Latent Fingerprint Analysis",
+    "summary": "Detection and comparison of invisible friction ridge skin impressions.",
+    "detailedExplanation": "Latent prints are developed using forensic powders or chemical reagents, then evaluated by minutiae ridge characteristics.",
+    "scientificLimitations": "Fingerprints establish contact but cannot specify the exact timestamp or intent of touching."
+  },
+  {
+    "id": "lib_f3",
+    "title": "Shoeprint & Tread Pattern Comparison",
+    "summary": "Evaluating tread design, size, and wear marks to match footwear.",
+    "detailedExplanation": "Class characteristics identify shoe brand and size; individual wear marks can uniquely identify a specific shoe.",
+    "scientificLimitations": "Incomplete impressions provide class matching rather than unique identification."
+  },
+  {
+    "id": "lib_f4",
+    "title": "Skid Mark Speed Calculation",
+    "summary": "Calculating minimum pre-braking speed from tire skid length and road friction.",
+    "detailedExplanation": "Uses physics formula v = √(254 × f × d) to establish minimum vehicle speed prior to wheel lockup.",
+    "scientificLimitations": "ABS braking systems lessen visible skid marks, making calculations a MINIMUM estimate."
+  },
+  {
+    "id": "lib_f5",
+    "title": "Physical & Fracture Fit Analysis",
+    "summary": "Matching broken object pieces together like puzzle fragments.",
+    "detailedExplanation": "When plastic, glass, or metal objects break, random fracture patterns are unique. Reassembling matching edges provides conclusive origin proof.",
+    "scientificLimitations": "Requires intact fracture edges that have not been pulverized."
+  }
+]
